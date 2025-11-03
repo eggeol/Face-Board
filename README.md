@@ -35,20 +35,20 @@ It uses your webcam to track facial landmarks (via [MediaPipe Face Mesh](https:/
 
 2. **Create a virtual environment (optional but recommended)**
 
-bash
-Copy code
-python -m venv venv
-source venv/bin/activate   # On Mac/Linux
-venv\Scripts\activate      # On Windows
+   ```bash
+   Copy code
+   python -m venv venv
+   source venv/bin/activate   # On Mac/Linux
+   venv\Scripts\activate      # On Windows
 
 3. **Install dependencies**
 
-bash
-Copy code
-pip install -r requirements.txt
+   ```bash
+   Copy code
+   pip install -r requirements.txt
 
 4. **Run the program**
 
-bash
-Copy code
-python faceboard.py
+   ```bash
+   Copy code
+   python faceboard.py
