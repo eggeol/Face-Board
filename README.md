@@ -30,7 +30,7 @@ It uses your webcam to track facial landmarks (via [MediaPipe Face Mesh](https:/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/FaceBoard.git
+   git clone https://github.com/eggeol/FaceBoard.git
    cd FaceBoard
 
 2. **Create a virtual environment (optional but recommended)**
